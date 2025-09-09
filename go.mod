@@ -1,3 +1,3 @@
-module github.com/ethn1ee/learn-go
+module textparser
 
 go 1.24.5
